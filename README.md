@@ -1,0 +1,1 @@
+I created this project to demonstrate simple html and css skills. The webpage is a copy of googe's homepage that I put together. I tried to recreate the page from scratch before using the developer's tools to find specific things like the colors used and widths and heights.

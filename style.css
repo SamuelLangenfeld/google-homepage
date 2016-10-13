@@ -1,0 +1,181 @@
+
+
+div{
+	
+
+}
+.topHalf
+{
+	position:relative;
+	height:413px;
+	left: 5px;
+	
+
+
+}
+
+.mainContent{
+	text-align: center;
+	position:absolute;
+	bottom: 0px;
+	
+	width:100%;
+	min-width:968px;
+
+
+
+}
+img {
+		display:block;
+		margin:auto;
+}
+
+input {
+
+
+	
+	display:block;
+	margin:auto;
+	
+	height:34px;
+	margin-top:25px;
+	margin-bottom:22px;
+}
+
+input[type="submit"]:hover {
+	color:black;
+}
+
+.button{
+	height:34px;
+	width:125px;
+	display:inline-block;
+	margin:5px;
+	margin-bottom:0px;
+	position:relative;
+	bottom:-10px;
+	left:-5px;
+	border:none;
+	color:#757575;
+	background-color:#f2f2f2;
+	font-family:arial, sans-serif;
+	font-weight:bold;
+	border-radius:2px;
+
+
+}
+
+.topBar{
+	position:absolute;
+	
+	text-align: right;
+	width:100%;
+	font-family:arial, sans-serif;
+	font-size:smaller;
+	line-height:24px;
+	opacity: .85;
+	right:30px;
+	
+
+}
+
+.googleAppsLink{
+	display:inline-block;
+	position:relative;
+	padding-right:15px;
+	margin:1px;
+	margin-bottom:-2px;
+
+
+}
+
+.googleAppsLink[type="submit"]:hover{
+	text-decoration:underline;
+}
+
+.googleAppsLink[type="submit"]{
+	background-color:white;
+	border:none;
+}
+
+.signInButton{
+	display:inline-block;
+	position:relative;
+	color:white;
+	background-color:#4285f4;
+	font-weight:bold;
+	
+	font-size:13;
+	font-weight:bold;
+	line-height:28px;
+	text-align:center;
+	padding:0px 12px;
+	border-radius:3px;
+
+}
+
+#grid{
+	height:15px;
+	width:15px;
+	opacity:.65;
+	top:2px;
+}
+
+.searchBar{
+	background: url(l5S4LZ2.png) no-repeat;
+	background-size:24px 24px;
+	background-position: right;
+	border:1px solid #d9d9d9;
+	width:40.5%;
+	max-width:650px;
+	height:36px;
+
+	
+}
+
+.footer{
+
+	position:absolute;
+	height:41px;
+	bottom:0px;
+	background-color:#f2f2f2;
+	width:100%;
+	min-width:968px;
+	left:0px;
+	opacity:.65;
+
+
+}
+
+.leftFoot{
+	display:inline-block;
+	float:left;
+	height:40px;
+	
+	text-align:left;
+}
+
+.rightFoot{
+	float:right;
+	display:inline-block;
+	height:40px;
+	
+	text-align:right;
+	margin-right:30px;
+}
+
+.footLink{
+	display:inline-block;
+	font-size:small;
+	font-family:arial, sans-serif;
+	line-height:40px;
+	padding-left:27px;
+	position:relative;
+	margin:0px 0px 0px 0px;
+	border:none;
+	background-color:#f2f2f2;
+}
+
+.footLink[type="submit"]:hover{
+	text-decoration: underline;
+}
